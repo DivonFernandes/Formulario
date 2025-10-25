@@ -1,0 +1,4 @@
+body { padding-bottom: 40px; }
+
+/* Pequenos ajustes para deixar mais legível */
+.table td, .table th { vertical-align: middle; }
